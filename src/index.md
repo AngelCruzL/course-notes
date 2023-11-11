@@ -5,21 +5,21 @@ layout: home
 hero:
   name: "Fundamentos de programación"
   text: ""
-  tagline: "Recopilación de notas del curso de fundamentos de programación con python y java"
+  tagline: "Recopilación de notas del curso de fundamentos de programación con Python y Java"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Python
+      link: /python/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Java
+      link: /java
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#features:
+#  - title: Feature A
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - title: Feature B
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - title: Feature C
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
