@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./chunks/framework.361cb293.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/archivos.md","filePath":"python/archivos.md"}'),o={name:"python/archivos.md"};function r(s,c,n,i,p,h){return e(),a("div")}const m=t(o,[["render",r]]);export{d as __pageData,m as default};

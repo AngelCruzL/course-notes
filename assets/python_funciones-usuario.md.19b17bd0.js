@@ -1,1 +1,0 @@
-import{_ as e,o,c as t}from"./chunks/framework.09edf966.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/funciones-usuario.md","filePath":"python/funciones-usuario.md"}'),n={name:"python/funciones-usuario.md"};function a(s,r,c,i,u,p){return o(),t("div")}const d=e(n,[["render",a]]);export{_ as __pageData,d as default};

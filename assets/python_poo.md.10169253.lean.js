@@ -1,1 +1,0 @@
-import{_ as o,o as t,c as e}from"./chunks/framework.09edf966.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/poo.md","filePath":"python/poo.md"}'),a={name:"python/poo.md"};function n(p,r,s,c,_,d){return t(),e("div")}const f=o(a,[["render",n]]);export{m as __pageData,f as default};

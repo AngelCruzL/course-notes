@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as e}from"./chunks/framework.361cb293.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/modulos.md","filePath":"python/modulos.md"}'),a={name:"python/modulos.md"};function s(n,r,c,d,p,m){return t(),e("div")}const i=o(a,[["render",s]]);export{_ as __pageData,i as default};
