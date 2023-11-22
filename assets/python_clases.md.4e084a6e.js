@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.09edf966.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/clases.md","filePath":"python/clases.md"}'),s={name:"python/clases.md"};function o(c,n,r,p,l,_){return t(),a("div")}const m=e(s,[["render",o]]);export{i as __pageData,m as default};

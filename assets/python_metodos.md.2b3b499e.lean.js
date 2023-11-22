@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as o}from"./chunks/framework.361cb293.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/metodos.md","filePath":"python/metodos.md"}'),a={name:"python/metodos.md"};function s(n,r,c,d,p,m){return e(),o("div")}const f=t(a,[["render",s]]);export{i as __pageData,f as default};

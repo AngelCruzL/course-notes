@@ -1,1 +1,0 @@
-import{_ as e,o as r,c as o}from"./chunks/framework.361cb293.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/manejo-errores.md","filePath":"python/manejo-errores.md"}'),t={name:"python/manejo-errores.md"};function a(n,s,c,p,m,_){return r(),o("div")}const f=e(t,[["render",a]]);export{i as __pageData,f as default};
