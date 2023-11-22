@@ -6,6 +6,7 @@ export default defineConfig({
   description: "Recopilación de notas del curso de fundamentos de programación con python y java",
   lang: 'es-MX',
   srcDir: 'src',
+  base: './',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
