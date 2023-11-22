@@ -20,6 +20,9 @@ export default defineConfig({
           {text: 'Instalación', link: '/python/instalacion'},
           {text: 'Variables y tipos de datos', link: '/python/variables'},
           {text: 'Funciones para interactuar con el usuario', link: '/python/funciones-usuario'},
+          {text: 'Operadores y operaciones aritméticas', link: '/python/operadores'},
+          {text: 'Operadores y operaciones lógicas', link: '/python/operadores-logicos'},
+          {text: 'Diccionarios y Listas', link: '/python/diccionarios-listas'},
         ]
       }
     ],
