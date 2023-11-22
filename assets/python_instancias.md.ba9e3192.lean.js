@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as e}from"./chunks/framework.361cb293.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/instancias.md","filePath":"python/instancias.md"}'),n={name:"python/instancias.md"};function s(o,c,i,r,p,_){return a(),e("div")}const f=t(n,[["render",s]]);export{m as __pageData,f as default};
